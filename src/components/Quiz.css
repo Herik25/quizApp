@@ -1,0 +1,18 @@
+label{
+    display: inline-flex;
+    font-family: 'poppins', sans-serif;
+    border: 2px solid #4D5B9E;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+    min-width: 100px;
+    justify-content: center;
+}
+
+.answered .incorrect{
+    background-color: #F8B4B4;
+}
+
+.answered .correct{
+    background-color: green;
+}
